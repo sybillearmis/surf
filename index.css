@@ -1,0 +1,13 @@
+.jumbotron {
+
+  /* Choisis la hauteur ici */
+  height: 400px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("surf1.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
